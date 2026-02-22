@@ -60,9 +60,9 @@
 🎯 **Goal**
 • Build autonomous AI systems that can reason, plan, and act independently.
 
-- 📫 How to reach me: just one step away **[akashrock30950@gmail.com](mailto:akashrock30950@gmail.com)**
+📫 How to reach me: just one step away **[akashrock30950@gmail.com](mailto:akashrock30950@gmail.com)**
 
-  ![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
+![logo](https://github.com/Ritu84/Ritu84-/blob/main/snake%20gif.gif)
 
 
 ## 🛠️ Technical Arsenal
@@ -115,6 +115,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashAero1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
