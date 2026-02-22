@@ -11,31 +11,27 @@
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/akash-sharma-305524304/" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-sharma-305524304/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30"
-         style="vertical-align:middle;" />
+         height="30"/>
   </a>&nbsp;&nbsp;
 
   <!-- Gmail -->
-  <a href="mailto:akashrock30950@gmail.com" target="_blank">
+  <a href="mailto:akashrock30950@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/gmail/EA4335"
-         height="30"
-         style="vertical-align:middle;" />
+         height="30"/>
   </a>&nbsp;&nbsp;
 
-  <!-- Codeforces (Bigger Icon) -->
-  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         height="26"
-         style="vertical-align:middle;" />
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Avgeek" target="_blank" rel="noopener noreferrer">
+    <img src="https://sta.codeforces.com/s/91849/images/codeforces-logo-with-telegram.png"
+         height="30"/>
   </a>&nbsp;&nbsp;
 
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.simpleicons.org/github"
-         height="30"
-         style="vertical-align:middle;" />
+  <a href="https://github.com/AkashAero1" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF"
+         height="30"/>
   </a>
 
 </p>
