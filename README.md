@@ -4,14 +4,46 @@
 
 # AI/ML Engineer | Building Autonomous AI Agents& Multi-Agent Architectures
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=1500&pause=1000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B+I%27m+Akash+Sharma;AI+Engineer+%7C+Agentic+AI+Developer;LLM+%26+RAG+Systems+Builder;Autonomous+AI+Agents+Enthusiast+%F0%9F%A4%96" />
-
 </div>
-# 💫 About Me:
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/akash-sharma-305524304/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="30"
+         style="vertical-align:middle;" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:akashrock30950@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         height="30"
+         style="vertical-align:middle;" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Codeforces (Bigger Icon) -->
+  <a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
+         height="26"
+         style="vertical-align:middle;" />
+  </a>&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/github"
+         height="30"
+         style="vertical-align:middle;" />
+  </a>
+
+</p>
+
+## 💫 About Me:
+
 🚀 Aspiring AI Engineer focused on building Autonomous AI Agents, LLM-powered applications, and intelligent automation systems.<br>I enjoy turning complex AI concepts into practical, real-world products using modern agent frameworks and scalable backend architectures.<br><br>🔭 Currently Building : <br><br>AI Agents & Autonomous Systems using LangChain & LangGraph<br>RAG-based applications with Vector Databases<br>AI Mental Health Assistant project<br>Full-stack AI apps using FastAPI & Docker<br><br>👯 I’m looking to collaborate on:<br><br>AI Agent workflows & automation systems<br>Open-source AI/ML projects<br>Real-world problem-solving platforms using AI<br><br>🤝 I’m looking for help with:<br><br>Advanced Agent Architectures<br>Scalable LLM deployment & optimization<br>Production-level AI system design<br><br>🌱 I’m currently learning:<br><br>Agentic AI & Context Engineering<br>Machine Learning & Deep Learning fundamentals<br>Retrieval Augmented Generation (RAG)<br>System Design for AI applications<br><br>⚡ Fun fact:<br>Civil Engineering student by degree, AI Engineer by passion — focused on building intelligent agents, autonomous systems, and real-world AI applications.<br><br>🎯 Goal: <br>Become an AI Engineer specializing in autonomous systems that can reason, plan, and execute tasks independently.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-sharma-305524304) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akash Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashrock0950@gmail.com) 
 
 # 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
