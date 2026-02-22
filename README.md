@@ -1,5 +1,10 @@
 ![Image](https://github.com/user-attachments/assets/2b50f4e7-3fe8-42c5-9b24-704726ab5a01)
 
+<div align="center">
+
+# AI Engineer | Building Intelligent Systems with LLMs & Multi-Agent Architectures
+
+</div>
 # 💫 About Me:
 🚀 Aspiring AI Engineer focused on building Autonomous AI Agents, LLM-powered applications, and intelligent automation systems.<br>I enjoy turning complex AI concepts into practical, real-world products using modern agent frameworks and scalable backend architectures.<br><br>🔭 Currently Building : <br><br>AI Agents & Autonomous Systems using LangChain & LangGraph<br>RAG-based applications with Vector Databases<br>AI Mental Health Assistant project<br>Full-stack AI apps using FastAPI & Docker<br><br>👯 I’m looking to collaborate on:<br><br>AI Agent workflows & automation systems<br>Open-source AI/ML projects<br>Real-world problem-solving platforms using AI<br><br>🤝 I’m looking for help with:<br><br>Advanced Agent Architectures<br>Scalable LLM deployment & optimization<br>Production-level AI system design<br><br>🌱 I’m currently learning:<br><br>Agentic AI & Context Engineering<br>Machine Learning & Deep Learning fundamentals<br>Retrieval Augmented Generation (RAG)<br>System Design for AI applications<br><br>⚡ Fun fact:<br>Civil Engineering student by degree, AI Engineer by passion — focused on building intelligent agents, autonomous systems, and real-world AI applications.<br><br>🎯 Goal: <br>Become an AI Engineer specializing in autonomous systems that can reason, plan, and execute tasks independently.
 
