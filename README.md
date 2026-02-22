@@ -2,7 +2,8 @@
 
 <div align="center">
 
-# AI Engineer | Building Intelligent Systems with LLMs & Multi-Agent Architectures
+# AI/ML Engineer | Building Autonomous AI Agents& Multi-Agent Architectures
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hey there+👋+I'm+Akash+Sharma;AI+Engineer+%7C+Agentic+AI+Developer;LLM+%26+RAG+Systems+Builder;Autonomous+AI+Agents+Enthusiast+🤖;Building+Real-World+Intelligent+Systems+💡" alt="Typing SVG" />
 
 </div>
 # 💫 About Me:
